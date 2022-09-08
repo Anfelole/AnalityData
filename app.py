@@ -32,7 +32,7 @@ def index():
     # Pre = showPrediction(flor[0])
     #y_pred = clf.predict(X_test)
     #html = """<p>>%s</p>""" % y_pred
-    return "Andres Lopez"
+    return "Aplicacion desplegada en servidor Heroku por Andres Lopez"
 
 
 if __name__ == '__main__':
